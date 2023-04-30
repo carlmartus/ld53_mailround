@@ -1,6 +1,8 @@
 # Mail round
 Ludum Dare 53 entry "Mail round"
 
+![Cover image](resources/cover.jpg)
+
 Links:
 - [Itch.io playable in browser](https://carlmartus.itch.io/mail-round)
 - [Ludum dare 53 game page](https://ldjam.com/events/ludum-dare/53/$364028)
