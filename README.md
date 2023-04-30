@@ -25,3 +25,8 @@ Created using.
 - Vim.
 - Gimp.
 
+## Screenshots
+
+![Screenshot 1](screenshots/1.jpg)
+
+![Screenshot 2](screenshots/2.jpg)
